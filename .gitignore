@@ -1,0 +1,6 @@
+.idea
+.Rhistory
+.env
+.venv
+out_data
+.ipynb_checkpoints
